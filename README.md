@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/loay-tamer-769a85217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loay-tamer-769a85217" height="30" width="40" /></a>
-<a href="https://fb.com/loay tamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100002552997418" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/loay tamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engloaytamer1682" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100002552997418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100002552997418" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWhbecu-tFOFc8vjq5DlDWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engloaytamer1682" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
