@@ -6,7 +6,7 @@
 
 - I’m currently student at **Faculty of Engineering-Helwan university**
 
-- 🌱 I’m currently learning **Embedded systems**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loaytamer](https://github.com/Loaytamer)
 
