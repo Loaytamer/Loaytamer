@@ -1,15 +1,8 @@
 # Hi 👋, I'm Loay Tamer
 
-### **Results-Driven Software Engineer specializing in Backend Development**
+### **Software Engineer specializing in Backend Development**
 
 I am a highly motivated and proactive Software Engineer with a strong foundation in designing, developing, and maintaining scalable and robust server-side applications. My expertise lies in backend development using Node.js, Python (Flask/FastAPI), and Java (Spring), coupled with a proven ability to manage diverse databases (SQL/NoSQL) and leverage cloud technologies. I am passionate about contributing to innovative projects and continuously expanding my skills in distributed systems and cutting-edge technologies.
-
----
-
-### 🎓 Education
-
-* **Computer and Systems Engineering (CSE)** - Helwan University, Cairo, Egypt
-    * *Cumulative Grade: Excellent (86.32%)*
 
 ---
 
@@ -85,7 +78,7 @@ Here are some of my key projects, demonstrating my backend development and full-
 ### 🔗 Connect with Me
 
 * **Email:** loaytamer10@gmail.com
-* **LinkedIn:** [Loay Tamer](https://www.linkedin.com/in/loay-tamer)
+* **LinkedIn:** [Loay Tamer](https://www.linkedin.com/in/loay-tamer-769a85217/)
 * **GitHub:** [Loaytamer](https://github.com/Loaytamer)
 
 ---
